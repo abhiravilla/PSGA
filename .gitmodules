@@ -4,3 +4,6 @@
 [submodule "location"]
 	path = location
 	url = https://github.com/abhiravilla/location
+[submodule "tracker"]
+	path = tracker
+	url = https://github.com/abhiravilla/tracker
