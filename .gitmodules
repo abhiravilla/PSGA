@@ -1,0 +1,6 @@
+[submodule "database"]
+	path = database
+	url = https://github.com/abhiravilla/database
+[submodule "location"]
+	path = location
+	url = https://github.com/abhiravilla/location
